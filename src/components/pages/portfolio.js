@@ -14,12 +14,12 @@ function Portfolio() {
           <div class="easicuisi">
             
           <a href="https://github.com/ShaneMcCarthyCO/ShaneMcCarthyCOHMWK9">
-            <img className="portfolioimg" src="" alt="easicuisi"></img>
+            {/* <img className="portfolioimg" src="" alt="easicuisi"></img> */}
           </a>
           
           <h1 class="header1"> ReadMe Generator</h1>
           <br></br>
-          <p class="para1">- README Generator This README Generator create a readme by prompting the user to answer several questions and generate a document from those answers. 
+          <p class="para1">- This README Generator create a readme by prompting the user to answer several questions and generate a document from those answers. 
           <br></br>
           - The user will be asked for their GitHub username Name of their repo, and upon answering these questions, a README.md file will be generated with the answers given. 
           </p>
@@ -31,22 +31,21 @@ function Portfolio() {
 
           <div class="allocations">
           <a href="https://shanemccarthyco.github.io/ShaneMcCarthyCOHMWK6/">
-            <img className="dayplanner" src="https://i.pinimg.com/originals/f8/be/22/f8be222cc55ac83ce675b5d44a6fb073.png" alt="easicuisi"></img>
+            {/* <img className="dayplanner" src="https://i.pinimg.com/originals/f8/be/22/f8be222cc55ac83ce675b5d44a6fb073.png" alt="easicuisi"></img> */}
           </a>
-          <h1 class="header2"> AlLocations</h1>
-          <p class="para1">- Project designed for users to be able to store information for an upcoming trip in one  
+          <h1 class="header2"> Weather Forecast</h1>
+          <p class="para1">- The objective was to create a weather forecast that a user could input a city into the search box and see both the current weather as well as five day outlook.  
           <br></br>
-          centralized place
-          <br></br>
-          - On landing page, user will be able to target upcoming trip, or future trips being planned
-          </p>
-          <p class="para3">- Languages used: Node, Express, Handebars, Sequelize, Materialize</p>
           
-          <p class="para4">- I was responsible for the back end work on this project. Once the front end was wired up,
+          
+          - An API key was requested for open weather and used to pull information for the forecast. 
+          </p>
+          <p class="para3">- Languages used: HTML, CSS and Javascript</p>
+          
+          <p class="para4">- Multiple factors that are pulled include temperature, wind speed, humidity etc. 
+         
           <br></br>
-          I was tasked with wiring up the server to be able to store user data that could be called 
-          <br></br>
-          when the user requests it.
+        
              </p>
           <p class="para4">- Repository Link: https://github.com/ShaneMcCarthyCO/ShaneMcCarthyCOHMWK6</p>
           
@@ -55,23 +54,18 @@ function Portfolio() {
 
           <div class="sauchelli">
           <a href="https://dawsontc003.github.io/CO_Park_Rangers/">
-            <img className="paul" src="https://cdn.dribbble.com/users/1128142/screenshots/3604965/artboard_1.png" alt="paul"></img>
+            {/* <img className="paul" src="https://cdn.dribbble.com/users/1128142/screenshots/3604965/artboard_1.png" alt="paul"></img> */}
           </a>
           <h1 class="header3"> Park Ranger Project</h1>
-          <p class="para1">- This is a developer portfolio that I designed for a client who is training to become a data scientist.  
+          <p class="para1">- This is my first team project during bootcamp. We built a website that allowed a user to explore the four National Parks in CO.  
            <br></br>
-          - Application includes links to his resume and LinkedIn profile, as well as contact information for employers.
-          <br></br>
-          - Links to project repositories on GitHub are also included on the portfolio page
-          </p>
-          <p class="para3">- Languages used: HTML, CSS, Bootstrap</p>
+           </p>
+          <p class="para3">- Languages used: HTML, CSS, Materialize</p>
           
-          <p class="para4">- I was responsible for the entire project from concept to completion. I met with Paul a few times 
-          <br></br>
-          to gain an understanding of what he was looking for  and then designed it from there.
+          <p class="para4">- I was responsible for more of the front-end work, including Materialize, content, and research related stuff.
           <br></br>
              </p>
-          <p class="para4">- Repository Link: https://github.com/benabbott85/Paul-Sauchelli</p>
+          <p class="para4">- Repository Link: https://github.com/dawsontc003/CO_Park_Rangers</p>
           
          
           
@@ -79,8 +73,7 @@ function Portfolio() {
           </div>
 
           
-           {/* <a href= "https://lit-shelf-33451.herokuapp.com/"><img className="notetaker" src="https://jeffshore.com/wp-content/uploads/2016/07/Taking-Notes.jpg" alt="notetaker"></img></a>
-           <a href="https://github.com/benabbott85/B-Abbott-HW-8"><img className="developerprofile" src="https://cdn-images-1.medium.com/max/1600/1*137RurhEOkjDyUGWQJhvAg.png" alt="developerprofile"></img></a> */}
+           {}
         </div>
       </div>
     </div>
