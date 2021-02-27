@@ -13,28 +13,24 @@ function Portfolio() {
         
           <div class="easicuisi">
             
-          <a href="https://benabbott85.github.io/Project-1/">
+          <a href="https://github.com/ShaneMcCarthyCO/ShaneMcCarthyCOHMWK9">
             <img className="portfolioimg" src="" alt="easicuisi"></img>
           </a>
           
-          <h1 class="header1"> EasiCuisi</h1>
-          <p class="para1">- Project designed for user to be able to search for recipes based on protein type, serving size, 
+          <h1 class="header1"> ReadMe Generator</h1>
           <br></br>
-          and cook time desired.
+          <p class="para1">- README Generator This README Generator create a readme by prompting the user to answer several questions and generate a document from those answers. 
           <br></br>
-          - Upon entering search criteria, user will be given results on modals based upon the API search.
+          - The user will be asked for their GitHub username Name of their repo, and upon answering these questions, a README.md file will be generated with the answers given. 
           </p>
-          <p class="para3">- Languages used: HTML, CSS, JQuery, APIs</p>
-          
-          <p class="para4">- I was responsible for the APIs to be used as well as coordinating the JQuery code writing </p>
-          
-          <p class="para4">- Repository Link: https://github.com/benabbott85/Project-1</p>          
+        
+          <p class="para4">- Repository Link: https://github.com/ShaneMcCarthyCO/ShaneMcCarthyCOHMWK9</p>          
          
           </div>
           
 
           <div class="allocations">
-          <a href="https://limitless-refuge-47363.herokuapp.com/">
+          <a href="https://shanemccarthyco.github.io/ShaneMcCarthyCOHMWK6/">
             <img className="dayplanner" src="https://i.pinimg.com/originals/f8/be/22/f8be222cc55ac83ce675b5d44a6fb073.png" alt="easicuisi"></img>
           </a>
           <h1 class="header2"> AlLocations</h1>
@@ -52,16 +48,16 @@ function Portfolio() {
           <br></br>
           when the user requests it.
              </p>
-          <p class="para4">- Repository Link: https://github.com/benabbott85/Project-2-</p>
+          <p class="para4">- Repository Link: https://github.com/ShaneMcCarthyCO/ShaneMcCarthyCOHMWK6</p>
           
          
           </div>
 
           <div class="sauchelli">
-          <a href="https://benabbott85.github.io/Paul-Sauchelli/">
+          <a href="https://dawsontc003.github.io/CO_Park_Rangers/">
             <img className="paul" src="https://cdn.dribbble.com/users/1128142/screenshots/3604965/artboard_1.png" alt="paul"></img>
           </a>
-          <h1 class="header3"> Paul Sauchelli</h1>
+          <h1 class="header3"> Park Ranger Project</h1>
           <p class="para1">- This is a developer portfolio that I designed for a client who is training to become a data scientist.  
            <br></br>
           - Application includes links to his resume and LinkedIn profile, as well as contact information for employers.
@@ -78,27 +74,6 @@ function Portfolio() {
           <p class="para4">- Repository Link: https://github.com/benabbott85/Paul-Sauchelli</p>
           
          
-          </div>
-
-          <div class="guild">
-          <a href="https://fierce-wildwood-24206.herokuapp.com/">
-            <img className="assistant" src="https://www.mmogames.com/wp-content/uploads/2015/08/gw001.jpg" alt="guild"></img>
-          </a>
-          <h1 class="header3"> Guild Assistant</h1>
-          <p class="para1">- This is the final project for my full stack web development course.   
-           <br></br>
-          - Application was designed as a guild management system for gamers.  Users are able to 
-          <br></br>
-          create characters, and track attendance for those characters as part of a larger guild.
-          </p>
-          <p class="para3">- Languages used: React</p>
-          
-          <p class="para4">- I was responsible for the user authentication aspect of this project.  We decided 
-          <br></br>
-          to use passport and I was tasked with wiring that up to run with the routes.
-          <br></br>
-             </p>
-          <p class="para4">- Repository Link: https://github.com/pitekcharles/project3</p>
           
          
           </div>

@@ -14,9 +14,8 @@ function About() {
       <p> I was born in Illinois on November 12, 1974. I am the second of two boys,
               my
               older brother is Mike.
-              My father worked in the dog food industry for over 40 years working mostly with unions. My mom was a stay
-              at home mom and also
-              a choreographer on the side.
+              My father worked in the dog food industry for over 45 years while my mom worked in the Admissions office of 
+              Wheaton College.
               I grew up in Wheaton, IL, a suburb of Chicago, about 30 minutes west of the city.
           </p>
   

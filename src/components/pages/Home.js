@@ -11,7 +11,7 @@ function Home() {
       <br></br>
       <h2 className="fullstack">Investment Professional | Full Stack Web Developer Student</h2>
     <br></br>
-      <h3 className="denver"> Denver, Colorado</h3>
+      <h3 className="denver"> Highlands Ranch, Colorado</h3>
       <br></br>
       <br></br>
       <br></br>
