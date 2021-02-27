@@ -14,7 +14,7 @@ function Portfolio() {
           <div class="easicuisi">
             
           <a href="https://github.com/ShaneMcCarthyCO/ShaneMcCarthyCOHMWK9">
-            {/* <img className="portfolioimg" src="" alt="easicuisi"></img> */}
+           
           </a>
           
           <h1 class="header1"> ReadMe Generator</h1>
